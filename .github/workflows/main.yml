@@ -6,8 +6,8 @@ on:
 
 jobs:
   demo:
-    run-on: ubunto-latest
+    run-on: ubuntu-latest
 
     steps:
        - name: greetings
-        run: echo "aleem ali"
+         run: echo "aleem ali"
