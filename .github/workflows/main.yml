@@ -9,5 +9,5 @@ jobs:
     run-on: ubunto-latest
 
     steps:
-     - name: greetings
-      run: echo "aleem ali"
+       - name: greetings
+        run: echo "aleem ali"
